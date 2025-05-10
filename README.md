@@ -4,9 +4,11 @@
 
 *Data-driven customer behavior analysis and product optimization system*
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ecommerce-analysis?style=social)](https://github.com/yourusername/ecommerce-analysis)
+
 [![Python 3.10](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.1-150458?logo=pandas)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4.0-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 
 ## 📂 Exact Project Structure
 ```text
@@ -97,17 +99,9 @@ pip install -r requirements.txt
    - Prophet time series forecasting
    - Gamma-Gamma CLV model
 
-## 📈 Business Impact
-
-| Metric | Improvement | Financial Impact |
-|--------|-------------|-------------------|
-| Customer Retention | +22% | £145k ARR |
-| Inventory Turnover | +35% | £82k savings |
-| Forecast Accuracy | 93% | £210k better planning |
 
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-**Connect:** [LinkedIn Profile](https://linkedin.com/in/yourprofile) | [Data Portfolio](https://yourportfolio.com)
