@@ -1,0 +1,10 @@
+# requirements.txt
+pandas==2.1.4
+numpy==1.26.2
+matplotlib==3.8.2
+seaborn==0.13.2
+scikit-learn==1.4.0
+plotly==5.18.0
+lifetimes==0.11.3
+prophet==1.1.5
+jupyter==1.0.0
